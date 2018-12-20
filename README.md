@@ -67,6 +67,10 @@
 * [1.初始Nginx——晓以大意 明以细理](http://www.178linux.com/86877)
 * [2.nginx实现代理服务器功能](http://www.178linux.com/78711)
 * [3.利用keepalived实现nginx七层负载均衡器双主模型高可用集群](http://www.178linux.com/79340)
+* 4. http服务代理缓存加速(其中主要学习varnish、nginx缓存系统，要对CDN的知识有所了解
+* 5. http服务代理缓存加速(其中主要学习varnish、nginx缓存系统，要对CDN的知识有所了解
+* 6. 运维监控zabbix详解(主要是zabbix、cacti、nagios等监控系统，现在用的比较多的是zabbix)
+
 
 # 五、LVS、keepalived高可用集群
 
@@ -75,6 +79,10 @@
 * [1.Linux cluster集群全讲解](http://www.178linux.com/59607)
 * [2.Nginx/LVS/HAProxy负载均衡软件优缺点总结](http://www.178linux.com/78452)
 * [3.利用keepalived实现主/从和主/主模式的高性能负载均衡集群](http://www.178linux.com/78548)
+* 4.  大数据方向(需要对hadoop、storm等常见开源大数据系统需要深入了解)
+* 5.  大数据方向(需要对hadoop、storm等常见开源大数据系统需要深入了解)
+* 6.  运维开发(主要是python运维开发)
+* 7. 自动化运维(在之前自动化基础上做深入)
 
 # 六、企业级运维自动化资深进阶
 
