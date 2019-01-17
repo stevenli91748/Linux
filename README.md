@@ -92,3 +92,9 @@
 * [3.自动化运维之Cobbler](http://www.178linux.com/15099)
 * [4.Puppet 的使用与进阶](http://www.178linux.com/62632)
 * [5.Gitlab代码管理仓库安装部署](http://www.178linux.com/25895)
+
+
+
+# 有用的参考
+
+* [Linux 服务器故障排查顺序](http://www.youmeek.com/linux-failure/)
