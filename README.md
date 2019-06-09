@@ -98,3 +98,4 @@
 # 有用的参考
 
 * [Linux 服务器故障排查顺序](http://www.youmeek.com/linux-failure/)
+* [Linux企业运维人员必备150个命令汇总](https://www.cnblogs.com/keerya/p/8119597.html)
