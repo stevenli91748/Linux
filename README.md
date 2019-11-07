@@ -94,6 +94,10 @@
 * [5.Gitlab代码管理仓库安装部署](http://www.178linux.com/25895)
 
 
+# 视频
+
+* [Linux网络编程 - 轻量级http服务器项目](https://www.bilibili.com/video/av60661105/?spm_id_from=333.788.videocard.15)
+
 
 # 有用的参考
 
