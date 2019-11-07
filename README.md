@@ -97,7 +97,8 @@
 # 视频
 
 * [Linux网络编程 - 轻量级http服务器项目](https://www.bilibili.com/video/av60661105/?spm_id_from=333.788.videocard.15)
-
+* [非常好的Linux系统编程](https://www.bilibili.com/video/av48141937/?spm_id_from=333.788.videocard.0)
+* [非常好的Linux网络编程](https://www.bilibili.com/video/av46933668/?spm_id_from=333.788.videocard.7)
 
 # 有用的参考
 
