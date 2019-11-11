@@ -101,7 +101,9 @@
 * [非常好的Linux网络编程](https://www.bilibili.com/video/av46933668/?spm_id_from=333.788.videocard.7)
 * [Linux运维毕业班全集（马哥亲讲）（上）](https://www.bilibili.com/video/av50799378/?spm_id_from=333.788.videocard.3)
 * [Linux运维毕业班全集（马哥亲讲）（下）](https://www.bilibili.com/video/av50882895/?spm_id_from=333.788.videocard.0)
-* [史上最全】Linux运维高级 集群 篇全集（最新）](https://www.bilibili.com/video/av51256375/?spm_id_from=333.788.videocard.1)
+* [史上最全Linux运维初级篇全集](https://www.bilibili.com/video/av51241178/?spm_id_from=333.788.videocard.0)
+* [史上最全Linux运维中级篇全集](https://www.bilibili.com/video/av51248371/?spm_id_from=333.788.videocard.2)
+* [史上最全Linux运维高级篇全集](https://www.bilibili.com/video/av51256375/?spm_id_from=333.788.videocard.1)
 
 # 有用的参考
 
