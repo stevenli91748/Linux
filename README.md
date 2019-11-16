@@ -6,7 +6,7 @@
 * [1. Linux运维基础实战入门](#Linux运维基础实战入门)
 * [3. Linux运维企业级应用服务](#Linux运维企业级应用服务)
 * [4. Linux虚拟化技术](#Linux虚拟化技术)
-
+* [5. Linux集群](#Linux集群)
  # Linux运维基础实战入门
  
  从Linux0基础入门开始，全面讲解作为新手如何学习Linux，以及学习方法和技巧，深入讲解了运维工程师必备基础知识，Linux基础入门，和命令使用，以及用户和权限等核心知识点。
@@ -40,18 +40,28 @@
 * [27.文本三剑客之AWK](http://www.178linux.com/81635)
 * [28.安全加密及CA、证书实战应用](http://www.178linux.com/49857)
 
-## 视频
+### 视频
 
 ---
 
 # Linux虚拟化技术
 
 
-## 视频
+### 视频
 
 * [尚硅谷-Linux虚拟化技术](https://www.bilibili.com/video/av51992763?from=search&seid=10075746202875391091)
 
 ---
+
+## Linux集群
+
+### 视频
+
+* [打开百万并发大门Linux集群](https://www.bilibili.com/video/av50397542/?spm_id_from=333.788.videocard.6)
+
+---
+
+
 
 # Linux运维企业级应用服务
 
