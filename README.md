@@ -3,9 +3,9 @@
 
 目录
 ---
-* [一 Linux运维基础实战入门](#Linux运维基础实战入门)
-* [二 Linux运维企业级应用服务](#Linux运维企业级应用服务)
-
+* [1. Linux运维基础实战入门](#Linux运维基础实战入门)
+* [3. Linux运维企业级应用服务](#Linux运维企业级应用服务)
+* [4. Linux虚拟化技术](#Linux虚拟化技术)
 
  # Linux运维基础实战入门
  
@@ -40,6 +40,19 @@
 * [27.文本三剑客之AWK](http://www.178linux.com/81635)
 * [28.安全加密及CA、证书实战应用](http://www.178linux.com/49857)
 
+## 视频
+
+---
+
+# Linux虚拟化技术
+
+
+## 视频
+
+* [尚硅谷-Linux虚拟化技术](https://www.bilibili.com/video/av51992763?from=search&seid=10075746202875391091)
+
+---
+
 # Linux运维企业级应用服务
 
 全面介绍企业级常用服务如DNS从入门到精通、FTP企业级配置之战、Http服务， 重点讲解服务搭建、LAMP、LNMP架构配置和使用，企业级服务配置和使用规范，生产环境用法等。参考案例为：唯品会、美团网、中国移动等
@@ -55,6 +68,9 @@
 * [9.lvs实践（lvs+nginx+mariadb+php—fpm+nfs搭建wordpress）](http://www.178linux.com/65445)
 * [10.SSH端口转发](http://www.178linux.com/86872)
 * [11.FTP虚拟用户，一气化三清（虚拟篇）]()
+
+
+
 
 # 三、Linux企业级安全原理和防范技巧
 
