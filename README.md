@@ -1,19 +1,28 @@
 # [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/interview.md)
 
 
-目录
----
-* [1. Linux运维基础实战入门](#Linux运维基础实战入门)
-* [2. Linux系统管理](#Linux系统管理)
-  * [Linux启动管理](#Linux启动管理)
-  * [Linux服务管理](#Linux服务管理)
-  * [Linux进程管理与工作管理](#Linux进程管理与工作管理)
-  * [Linux日志管理](#Linux日志管理)
-* [3. Linux运维企业级应用服务](#Linux运维企业级应用服务)
-* [4. Linux虚拟化技术](#Linux虚拟化技术)
-* [5. Linux集群](#Linux集群)
-  * []()
- # Linux运维基础实战入门
+
+# 1. Linux运维基础实战入门
+
+
+
+# 2. Linux系统管理
+
+Linux启动管理|Linux服务管理|Linux进程管理与工作管理|Linux日志管理|
+---|---|---|---|
+
+# 4. Linux虚拟化技术
+
+
+# 5. Linux集群
+
+
+# 6. MySQL数据库管理
+
+# 7. Linux运维企业级应用服务
+
+
+# Linux运维基础实战入门
  
  从Linux0基础入门开始，全面讲解作为新手如何学习Linux，以及学习方法和技巧，深入讲解了运维工程师必备基础知识，Linux基础入门，和命令使用，以及用户和权限等核心知识点。
  
