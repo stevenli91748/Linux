@@ -19,6 +19,9 @@ Linux网络基础|SSM|[DHCP](https://github.com/stevenli91748/Network/blob/maste
 LAMP平台部署| LNMP平台部署| 企业邮件服务|ELK日志分析服务|Rsync同步服务器|
 ---|---|---|---|---|
 
+[FastDFS](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/FastDFS/README.md)|
+---|
+
 
 # 5. Linux虚拟化技术
 
