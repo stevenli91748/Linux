@@ -13,8 +13,8 @@
 
 # 3. Linux服务管理
 
-Linux网络基础|SSM|DHCP| [DNS](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/DNS.md)|Vsftp|NFS|Samba|[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/README.md)| [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|
----|---|---|---|---|---|---|---|---|
+Linux网络基础|SSM|DHCP| [DNS](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/DNS.md)|Vsftp|NFS|Samba|[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/README.md)| [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|[CDN](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)|
+---|---|---|---|---|---|---|---|---|---|
 
 LAMP平台部署| LNMP平台部署| 企业邮件服务|ELK日志分析服务|Rsync同步服务器|
 ---|---|---|---|---|
