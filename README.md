@@ -13,7 +13,7 @@
 
 # 3. Linux服务管理
 
-Linux网络基础|SSM|DHCP| DNS|Vsftp|NFS|Samba|Nginx| Tomcat|
+Linux网络基础|SSM|DHCP| [DNS](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/DNS.md)|Vsftp|NFS|Samba|Nginx| Tomcat|
 ---|---|---|---|---|---|---|---|---|
 
 LAMP平台部署| LNMP平台部署| 企业邮件服务|ELK日志分析服务|Rsync同步服务器|
