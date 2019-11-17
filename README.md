@@ -26,7 +26,7 @@ LAMP平台部署| LNMP平台部署| 企业邮件服务|ELK日志分析服务|Rsy
 
 # 6. Linux集群
 
-集群概念|负载均衡集群（LBC）|高可用集群（HAC|多级负载（四、七层结合|
+[集群概念](https://github.com/stevenli91748/Linux/blob/master/Linux集群/集群概念/README.md)|[负载均衡集群（LBC）](https://github.com/stevenli91748/Linux/blob/master/Linux集群/负载均衡集群（LBC）/README.md)|[高可用集群（HAC)](https://github.com/stevenli91748/Linux/blob/master/Linux集群/高可用集群（HAC)/README.md)|[多级负载（四、七层结合)](https://github.com/stevenli91748/Linux/blob/master/Linux集群/多级负载（四、七层结合)/README.md)|
 ---|---|---|---|
 
 Squid缓存、代理服务|网络存储集群|监控集群|安全防护|无人值守装机|
