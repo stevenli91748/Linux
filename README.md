@@ -2,7 +2,7 @@
 
 
 
-# 1. Linux运维基础实战入门
+# 1. [Linux运维基础实战入门](https://github.com/stevenli91748/Linux/blob/master/Linux%E8%BF%90%E7%BB%B4%E5%9F%BA%E7%A1%80%E5%AE%9E%E6%88%98%E5%85%A5%E9%97%A8/README.md)
 
 
 
@@ -13,9 +13,11 @@
 
 # 3. Linux服务管理
 
-Linux网络基础|SSM|
----|---|
+Linux网络基础|SSM|DHCP| DNS|Vsftp|NFS|Samba|Nginx| Tomcat|
+---|---|---|---|---|---|---|---|---|
 
+LAMP平台部署| LNMP平台部署| 企业邮件服务|ELK日志分析服务|Rsync同步服务器|
+---|---|---|---|---|
 
 
 # 5. Linux虚拟化技术
