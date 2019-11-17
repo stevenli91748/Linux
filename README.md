@@ -20,7 +20,7 @@ LAMP平台部署| LNMP平台部署| 企业邮件服务|ELK日志分析服务|Rsy
 ---|---|---|---|---|
 
 [FastDFS](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/FastDFS/README.md)|[LVS](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/LVS/README.md)|
----|
+---|---|
 
 
 
