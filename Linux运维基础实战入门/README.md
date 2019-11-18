@@ -31,3 +31,5 @@
 * [28.安全加密及CA、证书实战应用](http://www.178linux.com/49857)
 
 ### 视频
+
+ * [鸟哥的Linux私房菜-基础篇（33集）](https://www.bilibili.com/video/av35044660?from=search&seid=3518506873397140975)
