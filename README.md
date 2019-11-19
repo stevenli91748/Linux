@@ -128,6 +128,7 @@ Squid缓存、代理服务|网络存储集群|监控集群|安全防护|无人�
 * [史上最全Linux运维初级篇全集](https://www.bilibili.com/video/av51241178/?spm_id_from=333.788.videocard.0)
 * [史上最全Linux运维中级篇全集](https://www.bilibili.com/video/av51248371/?spm_id_from=333.788.videocard.2)
 * [史上最全Linux运维高级篇全集](https://www.bilibili.com/video/av51256375/?spm_id_from=333.788.videocard.1)
+* [尚硅谷_Linux系统管理教程](https://www.bilibili.com/video/av41052360?from=search&seid=13669518928593212619)
 
 # 有用的参考
 
