@@ -39,13 +39,31 @@ LAMP平台部署| LNMP平台部署| 企业邮件服务|ELK日志分析服务|Rsy
 [集群概念](https://github.com/stevenli91748/Linux/blob/master/Linux集群/集群概念/README.md)|[负载均衡集群（LBC）](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)|[高可用集群（HAC)](https://github.com/stevenli91748/System-Design/blob/master/High%20availability%20architecture/README.md)|[多级负载（四、七层结合)](https://github.com/stevenli91748/Linux/blob/master/Linux集群/多级负载/README.md)|
 ---|---|---|---|
 
+Squid缓存、代理服务|网络存储集群|监控集群|安全防护|无人值守装机|
+---|---|---|---|---|
+
+## 百万级访问量集群实战
+
 中小型集群存储实战|WEB集群企业级实战|企业级反向代理集群实战|企业级ELK日志集群解决方案|
 ---|---|---|---|
 
+邮件集群实战|Tomcat集群与存储集群|MySQL集群管理|
+---|---|---|
 
+## 千万级访问量核心集群实战
 
-Squid缓存、代理服务|网络存储集群|监控集群|安全防护|无人值守装机|
----|---|---|---|---|
+千万级批量部署和集群详解|高并发负载均衡性集群|Heartbeat高可用集群和KeepAlived|透明代理和反向代理集群|
+----|---|---|---|
+
+ISCSI网络存储和RHCS集群|千万级存储集群|Zabbix监控集群和Nagios监控|kubernetes集群平台|
+---|---|---|---|
+
+OpenStack云计算集群|Hadoop集群|HDFS集群与MapReduce集群|Zookeeper集群与Hive集群|
+----|---|---|---|
+
+Impala集群和Flume集群|Kafka集群与 HBase集群|Sqoop集群和Azkaban集群|HUE集群和Kylin集群|
+---|---|---|---|
+
 
 ### 集群视频
 
