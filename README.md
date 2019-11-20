@@ -39,6 +39,9 @@ LAMP平台部署| LNMP平台部署| 企业邮件服务|ELK日志分析服务|Rsy
 [集群概念](https://github.com/stevenli91748/Linux/blob/master/Linux集群/集群概念/README.md)|[负载均衡集群（LBC）](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)|[高可用集群（HAC)](https://github.com/stevenli91748/System-Design/blob/master/High%20availability%20architecture/README.md)|[多级负载（四、七层结合)](https://github.com/stevenli91748/Linux/blob/master/Linux集群/多级负载/README.md)|
 ---|---|---|---|
 
+中小型集群存储实战|WEB集群企业级实战|企业级反向代理集群实战|企业级ELK日志集群解决方案|
+---|---|---|---|
+
 
 
 Squid缓存、代理服务|网络存储集群|监控集群|安全防护|无人值守装机|
