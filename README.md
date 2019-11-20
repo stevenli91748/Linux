@@ -143,7 +143,7 @@ Impala集群和Flume集群|Kafka集群与 HBase集群|Sqoop集群和Azkaban集�
 
 
 # 视频
-
+* [尚硅谷_韩顺平_Linux教程（千万级学习人次的经典教程，2018重磅升级）](https://www.bilibili.com/video/av21303002?from=search&seid=7778902785784845215)
 * [Linux网络编程 - 轻量级http服务器项目](https://www.bilibili.com/video/av60661105/?spm_id_from=333.788.videocard.15)
 * [非常好的Linux系统编程](https://www.bilibili.com/video/av48141937/?spm_id_from=333.788.videocard.0)
 * [非常好的Linux网络编程](https://www.bilibili.com/video/av46933668/?spm_id_from=333.788.videocard.7)
