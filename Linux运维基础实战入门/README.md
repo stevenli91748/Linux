@@ -33,3 +33,4 @@
 ### 视频
 
  * [鸟哥的Linux私房菜-基础篇（33集）](https://www.bilibili.com/video/av35044660?from=search&seid=3518506873397140975)
+ * [2019尚硅谷 Shell IF 脚本实战详解](https://www.bilibili.com/video/av73906685?from=search&seid=1203829884780159237)
