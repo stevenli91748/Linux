@@ -67,6 +67,9 @@ OpenStack云计算集群|Hadoop集群|HDFS集群与MapReduce集群|Zookeeper集�
 Impala集群和Flume集群|Kafka集群与 HBase集群|Sqoop集群和Azkaban集群|HUE集群和Kylin集群|
 ---|---|---|---|
 
+Docker集群|
+---|
+
 
 ### 集群视频
 
