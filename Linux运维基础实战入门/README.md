@@ -5,6 +5,7 @@
 * 第五阶段 系统调优
 * 第六阶段 深入理解Linux系统
 
+---
 
 * [1.计算机、操作系统基础](http://www.178linux.com/87011)
 * [2.Linux入门centos 6.9 安装步骤安装](http://www.178linux.com/76598)
