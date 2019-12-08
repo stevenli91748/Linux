@@ -24,6 +24,7 @@
 * [14.Linux程序包编译安装](http://www.178linux.com/74212)
 * [15.Linux文件层级结构标准（FHS）](http://www.178linux.com/62805)
 * [16.Liunx 磁盘管理](http://www.178linux.com/85180)
+  * [自动挂载新磁盘](https://www.bilibili.com/video/av21303002?p=43)
 * [17.Linux-raid的工作原理与管理](http://www.178linux.com/78445)
 * [18.Linux文件三剑客sed命令用法详解](http://www.178linux.com/78465)
 * [19.Linux基础之网络基础](http://www.178linux.com/43559)
