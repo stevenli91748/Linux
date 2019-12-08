@@ -30,6 +30,7 @@
 * [20.计算机网络基础知识与Linux网络配置](http://www.178linux.com/59030)
 * [21.Linux进程查看和管理及作业控制](http://www.178linux.com/48528)
 * [22.vim、定时任务、脚本初步应用及详解](http://www.178linux.com/62643)
+  * [Linux crontab命令：循环执行定时任务（详解版）](http://c.biancheng.net/view/1092.html)
 * [23.Linux系统启动流程、内核及模块管理、linux启动故障排除和自制linux](http://www.178linux.com/49705)
 * [24.bash脚本进阶](http://www.178linux.com/76657)
 * [25.Linux内核编译以及自制Linux系统](http://www.178linux.com/48275)
