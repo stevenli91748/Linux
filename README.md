@@ -163,3 +163,4 @@ Impala集群和Flume集群|Kafka集群与 HBase集群|Sqoop集群和Azkaban集�
 * [Linux企业运维人员必备150个命令汇总](https://www.cnblogs.com/keerya/p/8119597.html)
 * [Linux服务器系统优化：sysctl.conf文件（内核及网络设置）](https://yq.aliyun.com/articles/700149?spm=a2c4e.11154792.albumuser2.10.3b412c25Hj5oe0)
 * [学Linux到底学什么](https://blog.csdn.net/hyb612/article/details/101561520)
+* [常用的17个运维监控系统（必备知识）](https://blog.csdn.net/t8116189520/article/details/81737694)
