@@ -2,7 +2,7 @@
 * 第二阶段 Linux的各种配置（环境变量配置 网络配置 服务配置 FIREWALL配置）
 * 第三阶段 Linux下如何打建对应的语言的开发环境（JAVAEE 大数据 ）
 * 第四阶段 Shell脚本，对Linux服务器进行维护
-  * [shell 系统变量 环境变量 位置变量](https://blog.csdn.net/qq_17054989/article/details/87261440)   
+  * [shell 系统变量 环境变量 位置参数变量 语系变量 预定义变量](https://blog.csdn.net/qq_17054989/article/details/87261440)   
 * 第五阶段 系统调优
 * 第六阶段 深入理解Linux系统
 
