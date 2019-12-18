@@ -3,6 +3,7 @@
 * 第三阶段 Linux下如何打建对应的语言的开发环境（JAVAEE 大数据 ）
 * 第四阶段 Shell脚本，对Linux服务器进行维护
   * [shell 系统变量 环境变量 位置参数变量 语系变量 预定义变量](https://blog.csdn.net/qq_42816766/article/details/91006171)   
+  * [linux系统自带函数库介绍](https://www.jianshu.com/p/c8a5371df95d)
 * 第五阶段 系统调优
 * 第六阶段 深入理解Linux系统
 
