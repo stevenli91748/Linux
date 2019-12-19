@@ -13,3 +13,4 @@ TCP Wrappers介绍及配置案例
 
 * [12 个 ip 命令范例](https://linux.cn/article-9230-1.html)
 * [Linux 网桥配置命令：brctl](https://www.iteye.com/blog/fp-moon-1468650)
+* [linux nc命令使用详解](https://www.cnblogs.com/boluoboluo/p/6437787.html)
