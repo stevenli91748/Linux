@@ -14,6 +14,7 @@
 * [3.Linux命令总结](http://www.178linux.com/86881)
 * [4.文件管理类的命令总结](http://www.178linux.com/86375)
   * [Linux(centos)系统各个目录的作用详解](https://www.jb51.net/LINUXjishu/32180.html)
+  * [/var文件系统](https://blog.csdn.net/runner668/article/details/80713713)
 * [5.LINUX命令历史](http://www.178linux.com/77049)
 * [6.linux用户组和权限管理](http://www.178linux.com/83210)
 * [7.linux文件权限详解](http://www.178linux.com/72428)
