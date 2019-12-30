@@ -1,3 +1,6 @@
+# /etc/profile
+  [root] vi /etc/profile
+  [root] source /etc/profile
 
 # 在/etc/hosts文件中添加域名解析
   
