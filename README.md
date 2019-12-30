@@ -1,5 +1,5 @@
 # /etc/profile
-  [root] vi /etc/profile
+  [root] vi /etc/profile  or  [root]# echo 'export PATH=/usr/local/nginx/sbin:$PATH'>>/etc/profile
   
   [root] source /etc/profile
 
