@@ -18,6 +18,7 @@
   * [Linux系统中各种系统日志文件主要存放在系统中哪个目录](https://blog.csdn.net/qq_35458793/article/details/83819407)
   * [/usr/local目录](https://blog.csdn.net/u011495642/article/details/83655605)
   * [Linux配置文件路径大全](https://blog.csdn.net/glory1234work2115/article/details/51724182)
+  * [Linux常见配置文件](https://www.cnblogs.com/zxj015/p/4457868.html)
 * [5.LINUX命令历史](http://www.178linux.com/77049)
 * [6.linux用户组和权限管理](http://www.178linux.com/83210)
 * [7.linux文件权限详解](http://www.178linux.com/72428)
