@@ -11,7 +11,7 @@
 
   [root@www html]# curl www.mywebapp-name.com
   就可用域名訪问了
-* [Linux 修改本机 /etc/hosts 的 hostName 后经常不生效](https://blog.csdn.net/qq_16055765/article/details/78872445)
+* [Linux 修改本机 /etc/hosts 的 hostName 后经常不生效的解决方法](https://blog.csdn.net/qq_16055765/article/details/78872445)
 
 
 
