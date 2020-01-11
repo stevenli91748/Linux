@@ -173,6 +173,7 @@ Impala集群和Flume集群|Kafka集群与 HBase集群|Sqoop集群和Azkaban集�
 * [尚硅谷_Linux系统管理教程](https://www.bilibili.com/video/av41052360?from=search&seid=13669518928593212619)
 * [linux内核编程(基础,进阶,高级)](https://www.bilibili.com/video/av68469059/?spm_id_from=333.788.videocard.0)
 # 有用的参考
+* [linux常用脚本集锦](https://blog.csdn.net/xinshuzhan/article/details/91419087)
 * [系统运维](https://www.osyunwei.com)
 * [Linux 服务器故障排查顺序](http://www.youmeek.com/linux-failure/)
 * [Linux企业运维人员必备150个命令汇总](https://www.cnblogs.com/keerya/p/8119597.html)
