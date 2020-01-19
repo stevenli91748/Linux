@@ -172,6 +172,7 @@ Impala集群和Flume集群|Kafka集群与 HBase集群|Sqoop集群和Azkaban集�
 * [史上最全Linux运维高级篇全集](https://www.bilibili.com/video/av51256375/?spm_id_from=333.788.videocard.1)
 * [尚硅谷_Linux系统管理教程](https://www.bilibili.com/video/av41052360?from=search&seid=13669518928593212619)
 * [linux内核编程(基础,进阶,高级)](https://www.bilibili.com/video/av68469059/?spm_id_from=333.788.videocard.0)
+* [【千锋Linux】Shell脚本入门全套教程（103集](https://www.bilibili.com/video/av43609689?from=search&seid=10204331567303013188)
 # 有用的参考
 * [linux常用脚本集锦](https://blog.csdn.net/xinshuzhan/article/details/91419087)
 * [系统运维](https://www.osyunwei.com)
