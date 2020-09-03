@@ -1,5 +1,8 @@
 # 知识点
 
+[Linux面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104588679)|
+---|
+
 CentOS 7.x新特性|CentOS 6.x与7.x差异对比|Linux网络基础及命令|Linux下网络参数配置|
 ---|---|---|---|
 
