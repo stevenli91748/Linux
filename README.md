@@ -18,6 +18,8 @@
 # [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)
 
 
+[精尽 Linux 学习指南](http://svip.iocoder.cn/Linux/tutorials/)|
+---|
 
 # 1. [Linux运维基础实战入门](https://github.com/stevenli91748/Linux/blob/master/Linux%E8%BF%90%E7%BB%B4%E5%9F%BA%E7%A1%80%E5%AE%9E%E6%88%98%E5%85%A5%E9%97%A8/README.md)
 
