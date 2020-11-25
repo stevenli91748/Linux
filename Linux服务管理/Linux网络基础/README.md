@@ -10,7 +10,7 @@ SSH服务管理简介及命令
 使用私钥在Windows平台登录
 TCP Wrappers介绍及配置案例
 
-
+* [Ifconfig’ Command Not Found In CentOS 7 Minimal Installation](https://www.unixmen.com/ifconfig-command-found-centos-7-minimal-installation-quick-tip-fix/)
 * [12 个 ip 命令范例](https://linux.cn/article-9230-1.html)
 * [Linux 网桥配置命令：brctl](https://www.iteye.com/blog/fp-moon-1468650)
 * [linux nc命令使用详解](https://www.cnblogs.com/boluoboluo/p/6437787.html)
