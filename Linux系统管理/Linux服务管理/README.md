@@ -1,1 +1,1 @@
-* [sysctl.conf文件详解---一个允许改变正在运行中的Linux系统的接口，它包含一些TCP/IP堆栈和虚拟内存系统的高级选项，修改内核参数永久生效](https://www.cnblogs.com/Jtianlin/p/4339931.html#:~:text=%2Fetc%2Fsysctl.conf%E6%98%AF,%E5%8F%98%E9%87%8F%E5%AD%98%E5%9C%A8%E7%9D%80%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB%E3%80%82)
+* [sysctl.conf文件详解---一个允许改变正在运行中的Linux系统的接口，它包含一些TCP/IP堆栈和虚拟内存系统的高级选项，修改内核参数永久生效 也就是说/proc/sys下内核文件与配置文件sysctl.conf中变量存在着对应关系](https://www.cnblogs.com/Jtianlin/p/4339931.html#:~:text=%2Fetc%2Fsysctl.conf%E6%98%AF,%E5%8F%98%E9%87%8F%E5%AD%98%E5%9C%A8%E7%9D%80%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB%E3%80%82)
