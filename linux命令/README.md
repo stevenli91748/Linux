@@ -1,4 +1,4 @@
 
 
-<a href="https://ibb.co/YTRMpyv"><img src="https://i.ibb.co/1Jv58dH/vim.jpg" alt="vim" border="0"></a>
-[vim命令]()
+
+[vim命令](https://github.com/stevenli91748/Linux/blob/master/linux%E5%91%BD%E4%BB%A4/vim%E5%91%BD%E4%BB%A4.md)
