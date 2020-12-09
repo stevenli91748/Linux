@@ -1,9 +1,14 @@
 # 目录
+* [linux管理命令](#linux管理命令)
 * [编辑命令](#编辑命令)
 * [时区命令](#时区命令)
 
 
 
+
+## linux管理命令
+
+* [关闭SELinux、查看SELinux状态与SELinux的作用](http://www.svngo.com/article74)
 
 ## 编辑命令
 
