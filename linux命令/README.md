@@ -9,7 +9,7 @@
 ## linux管理命令
 
 * [关闭SELinux、查看SELinux状态与SELinux的作用](http://www.svngo.com/article74)
-
+* [Linux之ssh免密登录](https://blog.csdn.net/mmd0308/article/details/73825953)
 ## 编辑命令
 
 * [vim命令](https://github.com/stevenli91748/Linux/blob/master/linux%E5%91%BD%E4%BB%A4/vim%E5%91%BD%E4%BB%A4.md)
