@@ -9,7 +9,8 @@
 ## linux管理命令
 
 * [关闭SELinux、查看SELinux状态与SELinux的作用](http://www.svngo.com/article74)
-* [Linux之ssh免密登录](https://blog.csdn.net/mmd0308/article/details/73825953)
+* [Linux配置免密码登录（原理 + 实践）](https://blog.csdn.net/syani/article/details/52618840)
+  * [The authenticity of host 'IP' can't be established:ssh客户端登录Linux系统出错解决记录](https://blog.csdn.net/weixin_33816611/article/details/90251790?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-7.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-7.not_use_machine_learn_pai)
 ## 编辑命令
 
 * [vim命令](https://github.com/stevenli91748/Linux/blob/master/linux%E5%91%BD%E4%BB%A4/vim%E5%91%BD%E4%BB%A4.md)
