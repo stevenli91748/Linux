@@ -1,4 +1,5 @@
 # 目录
+* [CentOS Bash 命令补全](https://jaminzhang.github.io/linux/CentOS-Bash-command-completion-enhanced-tool-bash-completion/)
 * [linux管理命令](#linux管理命令)
 * [编辑命令](#编辑命令)
 * [时区命令](#时区命令)
