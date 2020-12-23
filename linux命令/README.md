@@ -3,7 +3,7 @@
 * [linux管理命令](#linux管理命令)
 * [编辑命令](#编辑命令)
 * [时区命令](#时区命令)
-* [Linux中的dmesg命令](http://www.cppblog.com/mydriverc/archive/2009/10/13/98534.html)
+* [Linux中的dmesg命令---kernel会将开机信息存储在ring buffer中。您若是开机时来不及查看信息，可利用dmesg来查看](http://www.cppblog.com/mydriverc/archive/2009/10/13/98534.html)
 
 
 
