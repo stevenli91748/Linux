@@ -3,6 +3,7 @@
 * [linux管理命令](#linux管理命令)
 * [编辑命令](#编辑命令)
 * [时区命令](#时区命令)
+* [Linux中的dmesg命令](http://www.cppblog.com/mydriverc/archive/2009/10/13/98534.html)
 
 
 
