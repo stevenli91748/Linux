@@ -12,6 +12,7 @@
 
 * [关闭SELinux、查看SELinux状态与SELinux的作用](http://www.svngo.com/article74)
 * [Linux配置免密码登录（原理 + 实践）](https://blog.csdn.net/syani/article/details/52618840)
+  * [讲解ssh的用法和操作](https://zhuanlan.zhihu.com/p/57225907)
   * [SSH 免密登录是怎么玩儿的](https://zhuanlan.zhihu.com/p/28423720)
   * [Linux配置SSH免密登陆(公私钥登陆)](https://juejin.cn/post/6844903734233792519)
   * [The authenticity of host 'IP' can't be established:ssh客户端登录Linux系统出错解决记录](https://blog.csdn.net/weixin_33816611/article/details/90251790?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-7.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-7.not_use_machine_learn_pai)
