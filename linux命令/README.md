@@ -17,6 +17,9 @@
   * [Linux配置SSH免密登陆(公私钥登陆)](https://juejin.cn/post/6844903734233792519)
   * [The authenticity of host 'IP' can't be established:ssh客户端登录Linux系统出错解决记录](https://blog.csdn.net/weixin_33816611/article/details/90251790?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-7.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-7.not_use_machine_learn_pai)
 * [centos7 安装NFS 服务端和客户端](https://blog.csdn.net/qq_35031333/article/details/110653227?ops_request_misc=&request_id=&biz_id=102&utm_term=centos7%25E5%25AE%2589%25E8%25A3%2585nfs&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-110653227.nonecase)
+* [lsof 命令](http://www.dev-share.top/2017/11/16/lsof-%e5%91%bd%e4%bb%a4/) 
+ 
+ 
  
 ## 编辑命令
 
