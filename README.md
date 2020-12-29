@@ -38,11 +38,14 @@
 LAMP平台部署| LNMP平台部署| 企业邮件服务|ELK日志分析服务|Rsync同步服务器|[linux防火墙](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/linux防火墙/README.md)|
 ---|---|---|---|---|---|
 
-[FastDFS](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/FastDFS/README.md)|[LVS](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/LVS/README.md)|
----|---|
+[FastDFS](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/FastDFS/README.md)|[LVS](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/LVS/README.md)|[CentOS 7 安装 httpd文件服务器](http://www.dev-share.top/2019/12/11/centos-7-%e5%ae%89%e8%a3%85-httpd%e6%96%87%e4%bb%b6%e6%9c%8d%e5%8a%a1%e5%99%a8/)|[CentOS 7 安装Ceph集群](http://www.dev-share.top/2019/12/19/centos-7-%e5%ae%89%e8%a3%85ceph%e9%9b%86%e7%be%a4/)|
+---|---|---|---|
 
+[使用SSH反向隧道进行内网穿透](http://www.dev-share.top/2019/08/21/%e4%bd%bf%e7%94%a8ssh%e5%8f%8d%e5%90%91%e9%9a%a7%e9%81%93%e8%bf%9b%e8%a1%8c%e5%86%85%e7%bd%91%e7%a9%bf%e9%80%8f/)|[ELK+logtrail 显示filebeat抓取的日志](http://www.dev-share.top/2019/07/01/elklogtrail-%e6%98%be%e7%a4%bafilebeat%e6%8a%93%e5%8f%96%e7%9a%84%e6%97%a5%e5%bf%97/)|[使用 docker-compose 安装 filebeat+redis](http://www.dev-share.top/2019/06/27/%e4%bd%bf%e7%94%a8-docker-compose-%e5%ae%89%e8%a3%85-filebeatredis/)|[SSH 配置互信，及应用](http://www.dev-share.top/2019/02/22/ssh-%e9%85%8d%e7%bd%ae%e4%ba%92%e4%bf%a1%ef%bc%8c%e5%8f%8a%e5%ba%94%e7%94%a8/)|
+---|---|---|---|
 
-
+[Linux 环境变量配置](http://www.dev-share.top/2018/07/02/linux-%e7%8e%af%e5%a2%83%e5%8f%98%e9%87%8f%e9%85%8d%e7%bd%ae/)|
+---|
 # 5. Linux虚拟化技术
 
 虚拟化基础| Vcent|[Docker](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/README.md)|Openstack|[Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/README.md)|
