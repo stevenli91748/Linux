@@ -18,3 +18,4 @@ TCP Wrappers介绍及配置案例
 * [linux nc命令使用详解](https://www.cnblogs.com/boluoboluo/p/6437787.html)
 * [linux curl命令详解](https://www.cnblogs.com/kingle-study/p/9914125.html)
 * [网卡不叫eth0，而叫ens33、ens160、eno1 or enp0s*？](https://www.jianshu.com/p/5fc492060e70)
+* [centos7.6双网卡配置及切换测试](https://blog.51cto.com/3241766/2553466)
