@@ -33,6 +33,6 @@
 
 ## 网络命令
 
-  * [netstat](https://www.itzgeek.com/how-tos/linux/centos-how-tos/netstat-command-not-found-on-centos-8-rhel-8-quick-fix.html)
-
+* [netstat](https://www.itzgeek.com/how-tos/linux/centos-how-tos/netstat-command-not-found-on-centos-8-rhel-8-quick-fix.html)
+* [linux下常用命令查看端口占用](https://blog.csdn.net/ws379374000/article/details/74218530)
 
