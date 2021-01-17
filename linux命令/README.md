@@ -1,5 +1,5 @@
 # 目录
-* [CentOS Bash 命令补全](https://jaminzhang.github.io/linux/CentOS-Bash-command-completion-enhanced-tool-bash-completion/)
+* [shell命令](#shell命令)
 * [linux管理命令](#linux管理命令)
 * [编辑命令](#编辑命令)
 * [时区命令](#时区命令)
@@ -7,6 +7,9 @@
 * [Linux中的dmesg命令---kernel会将开机信息存储在ring buffer中。您若是开机时来不及查看信息，可利用dmesg来查看](http://www.cppblog.com/mydriverc/archive/2009/10/13/98534.html)
 
 
+## shell命令
+* [CentOS Bash 命令补全](https://jaminzhang.github.io/linux/CentOS-Bash-command-completion-enhanced-tool-bash-completion/)
+* [linux 修改用户默认shell](https://blog.csdn.net/he520478/article/details/45219279)
 
 
 ## linux管理命令
