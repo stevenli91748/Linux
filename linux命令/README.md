@@ -39,4 +39,4 @@
 * [netstat命令](https://www.itzgeek.com/how-tos/linux/centos-how-tos/netstat-command-not-found-on-centos-8-rhel-8-quick-fix.html)
 * [linux下常用命令查看端口占用](https://blog.csdn.net/ws379374000/article/details/74218530)
 * [LSOF命令](https://landoflinux.com/linux_lsof_command_examples.html)
-
+* [Netcat (nc) Command with Examples](https://linuxize.com/post/netcat-nc-command-with-examples/)
