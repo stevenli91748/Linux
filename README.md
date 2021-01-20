@@ -195,4 +195,4 @@ Impala集群和Flume集群|Kafka集群与 HBase集群|Sqoop集群和Azkaban集�
 * [学Linux到底学什么](https://blog.csdn.net/hyb612/article/details/101561520)
 * [常用的17个运维监控系统（必备知识）](https://blog.csdn.net/t8116189520/article/details/81737694)
 * [linux 中 ~/. 是什么意思](https://blog.csdn.net/u014082714/article/details/44081565)
-
+* [How to Install VirtualBox Guest Additions on CentOS 8](https://linuxize.com/post/how-to-install-virtualbox-guest-additions-on-centos-8/)
