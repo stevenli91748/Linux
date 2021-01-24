@@ -7,6 +7,7 @@
 * [Linux中的dmesg命令---kernel会将开机信息存储在ring buffer中。您若是开机时来不及查看信息，可利用dmesg来查看](http://www.cppblog.com/mydriverc/archive/2009/10/13/98534.html)
 
 
+
 ## shell命令
 * [CentOS Bash 命令补全](https://jaminzhang.github.io/linux/CentOS-Bash-command-completion-enhanced-tool-bash-completion/)
 * [linux 修改用户默认shell](https://blog.csdn.net/he520478/article/details/45219279)
@@ -21,8 +22,7 @@
   * [Linux配置SSH免密登陆(公私钥登陆)](https://juejin.cn/post/6844903734233792519)
   * [The authenticity of host 'IP' can't be established:ssh客户端登录Linux系统出错解决记录](https://blog.csdn.net/weixin_33816611/article/details/90251790?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-7.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-7.not_use_machine_learn_pai)
 * [centos7 安装NFS 服务端和客户端](https://blog.csdn.net/qq_35031333/article/details/110653227?ops_request_misc=&request_id=&biz_id=102&utm_term=centos7%25E5%25AE%2589%25E8%25A3%2585nfs&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-110653227.nonecase)
-* [lsof 命令](http://www.dev-share.top/2017/11/16/lsof-%e5%91%bd%e4%bb%a4/) 
- 
+ * [systemctl 命令详解及使用教程](https://linux265.com/news/3385.html)
  
  
 ## 编辑命令
@@ -40,3 +40,4 @@
 * [linux下常用命令查看端口占用](https://blog.csdn.net/ws379374000/article/details/74218530)
 * [LSOF命令](https://landoflinux.com/linux_lsof_command_examples.html)
 * [Netcat (nc) Command with Examples](https://linuxize.com/post/netcat-nc-command-with-examples/)
+* [lsof 命令](http://www.dev-share.top/2017/11/16/lsof-%e5%91%bd%e4%bb%a4/) 
