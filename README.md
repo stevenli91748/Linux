@@ -186,6 +186,7 @@ Impala集群和Flume集群|Kafka集群与 HBase集群|Sqoop集群和Azkaban集�
 * [linux内核编程(基础,进阶,高级)](https://www.bilibili.com/video/av68469059/?spm_id_from=333.788.videocard.0)
 * [【千锋Linux】Shell脚本入门全套教程（103集](https://www.bilibili.com/video/av43609689?from=search&seid=10204331567303013188)
 # 有用的参考
+* [Linux下DNS服务(Bind9)之Web管理利器-NamedManager部署说明](https://cloud.tencent.com/developer/article/1102334?from=article.detail.1025920)
 * [Linux面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104588679)
 * [linux常用脚本集锦](https://blog.csdn.net/xinshuzhan/article/details/91419087)
 * [系统运维](https://www.osyunwei.com)
