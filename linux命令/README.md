@@ -41,3 +41,4 @@
 * [LSOF命令](https://landoflinux.com/linux_lsof_command_examples.html)
 * [Netcat (nc) Command with Examples](https://linuxize.com/post/netcat-nc-command-with-examples/)
 * [lsof 命令](http://www.dev-share.top/2017/11/16/lsof-%e5%91%bd%e4%bb%a4/) 
+* [ifconfig](https://blog.csdn.net/bobodebo/article/details/103417996)
