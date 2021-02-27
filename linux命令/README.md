@@ -5,7 +5,7 @@
 * [时区命令](#时区命令)
 * [网络命令](#网络命令)
 * [Linux中的dmesg命令---kernel会将开机信息存储在ring buffer中。您若是开机时来不及查看信息，可利用dmesg来查看](http://www.cppblog.com/mydriverc/archive/2009/10/13/98534.html)
-
+* [包管理命令](#包管理命令)
 
 
 ## shell命令
@@ -43,3 +43,9 @@
 * [Netcat (nc) Command with Examples](https://linuxize.com/post/netcat-nc-command-with-examples/)
 * [lsof 命令](http://www.dev-share.top/2017/11/16/lsof-%e5%91%bd%e4%bb%a4/) 
 * [ifconfig](https://blog.csdn.net/bobodebo/article/details/103417996)
+
+## 包管理命令
+
+### yum 包管理命令
+* [yum将软件安装到指定的目录](https://blog.csdn.net/weixin_42534940/article/details/80986557)
+  
