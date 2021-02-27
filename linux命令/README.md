@@ -24,7 +24,8 @@
 * [centos7 安装NFS 服务端和客户端](https://blog.csdn.net/qq_35031333/article/details/110653227?ops_request_misc=&request_id=&biz_id=102&utm_term=centos7%25E5%25AE%2589%25E8%25A3%2585nfs&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-110653227.nonecase)
  * [systemctl 命令详解及使用教程](https://linux265.com/news/3385.html)
  * [./configure --prefix的作用](https://blog.csdn.net/u013274055/article/details/76935944)
- 
+   * [linux ./configure 的参数详解](https://blog.csdn.net/zjt289198457/article/details/6918656?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=bac91fb4-6de4-47ff-91c0-8ce8a349a2d6&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
+
 ## 编辑命令
 
 * [vim命令](https://github.com/stevenli91748/Linux/blob/master/linux%E5%91%BD%E4%BB%A4/vim%E5%91%BD%E4%BB%A4.md)
