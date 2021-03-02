@@ -21,6 +21,9 @@
 [精尽 Linux 学习指南](http://svip.iocoder.cn/Linux/tutorials/)|[how to install all softwear on centos8](https://linuxize.com/tags/centos/page/7/)|
 ---|---|
 
+[运维工作笔记](https://www.kancloud.cn/devops-centos/centos-linux-devops/361133)|
+---|
+
 # 1. [Linux运维基础实战入门](https://github.com/stevenli91748/Linux/blob/master/Linux%E8%BF%90%E7%BB%B4%E5%9F%BA%E7%A1%80%E5%AE%9E%E6%88%98%E5%85%A5%E9%97%A8/README.md)
 
 
