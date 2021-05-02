@@ -21,6 +21,9 @@
 [精尽 Linux 学习指南](http://svip.iocoder.cn/Linux/tutorials/)|[how to install all softwear on centos8](https://linuxize.com/tags/centos/page/7/)|
 ---|---|
 
+[非常详细的 Linux C/C++ 学习路线总结](https://mp.weixin.qq.com/s/LYfsChbmFRH1B3s_j0vIAQ)|
+---|
+
 [运维工作笔记](https://www.kancloud.cn/devops-centos/centos-linux-devops/361133)|[爱运维](https://www.iyunw.cn/)|
 ---|---|
 
@@ -189,6 +192,9 @@ Impala集群和Flume集群|Kafka集群与 HBase集群|Sqoop集群和Azkaban集�
 * [linux内核编程(基础,进阶,高级)](https://www.bilibili.com/video/av68469059/?spm_id_from=333.788.videocard.0)
 * [【千锋Linux】Shell脚本入门全套教程（103集](https://www.bilibili.com/video/av43609689?from=search&seid=10204331567303013188)
 # 有用的参考
+* [万字长文，别再说你不懂Linux内存管理了](https://mp.weixin.qq.com/s/oXy-0lkIr3dFjEi2t6mCNQ)
+* [别再说你不懂Linux内存管理了，10张图给你安排的明明白白](https://mp.weixin.qq.com/s/CLfyUvoQf1Tp6mx-l3dwEg)
+* [分析Linux进程的6个方法，我全都告诉你](https://mp.weixin.qq.com/s/5dseqVxv-45bfmI8Yvh7TQ)
 * [Linux下DNS服务(Bind9)之Web管理利器-NamedManager部署说明](https://cloud.tencent.com/developer/article/1102334?from=article.detail.1025920)
 * [Linux面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104588679)
 * [linux常用脚本集锦](https://blog.csdn.net/xinshuzhan/article/details/91419087)
