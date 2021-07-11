@@ -1,36 +1,18 @@
-# /etc/profile
-  [root] vi /etc/profile  or  [root]# echo 'export PATH=/usr/local/nginx/sbin:$PATH'>>/etc/profile
-  
-  [root] source /etc/profile
-
-# 在/etc/hosts文件中添加域名解析
-  
-  192.168.28.130 www.mywebapp-name.com
-  
-  本机访问
-
-  [root@www html]# curl www.mywebapp-name.com
-  就可用域名訪问了
 * [Linux 修改本机 /etc/hosts 的 hostName 后经常不生效的解决方法](https://blog.csdn.net/qq_16055765/article/details/78872445)
-
-
 
 # [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)
 
 
-[精尽 Linux 学习指南](http://svip.iocoder.cn/Linux/tutorials/)||
+[精尽 Linux 学习指南](http://svip.iocoder.cn/Linux/tutorials/)|[how to install all softwear on centos8](https://linuxize.com/tags/centos/page/7/)|
 ---|---|
 
 [非常详细的 Linux C/C++ 学习路线总结](https://mp.weixin.qq.com/s/LYfsChbmFRH1B3s_j0vIAQ)|
 ---|
-[how to install all softwear on centos8](https://linuxize.com/tags/centos/page/7/)
 
-[运维工作笔记](https://www.kancloud.cn/devops-centos/centos-linux-devops/361133)|[爱运维](https://www.iyunw.cn/)|
+[2021 运维工作笔记](https://www.kancloud.cn/devops-centos/centos-linux-devops/361133)|[爱运维](https://www.iyunw.cn/)|
 ---|---|
 
 # 1. [Linux运维基础实战入门](https://github.com/stevenli91748/Linux/blob/master/Linux%E8%BF%90%E7%BB%B4%E5%9F%BA%E7%A1%80%E5%AE%9E%E6%88%98%E5%85%A5%E9%97%A8/README.md)
-
-
 
 # 2. Linux系统管理
 
