@@ -9,8 +9,8 @@
 [非常详细的 Linux C/C++ 学习路线总结](https://mp.weixin.qq.com/s/LYfsChbmFRH1B3s_j0vIAQ)|
 ---|
 
-[2021 运维工作笔记](https://www.kancloud.cn/devops-centos/centos-linux-devops/361133)|[爱运维](https://www.iyunw.cn/)|
----|---|
+[2021 运维工作笔记](https://www.kancloud.cn/devops-centos/centos-linux-devops/361133)|[爱运维](https://www.iyunw.cn/)|[高效运维实战那点儿事](https://www.kancloud.cn/mr_zihan/deploy)|
+---|---|---|
 
 # 1. [Linux运维基础实战入门](https://github.com/stevenli91748/Linux/blob/master/Linux%E8%BF%90%E7%BB%B4%E5%9F%BA%E7%A1%80%E5%AE%9E%E6%88%98%E5%85%A5%E9%97%A8/README.md)
 
