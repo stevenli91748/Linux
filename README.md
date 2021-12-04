@@ -3,6 +3,12 @@
 # [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)
 
 
+# 在线书籍
+
+* [程序是怎样跑起来的](https://weread.qq.com/web/reader/99b32fe05dd9f199b1014ef)
+* [计算机是怎样跑起来的](https://weread.qq.com/web/reader/b9b324005dd9f0b9b9e6f17)
+
+
 [精尽 Linux 学习指南](http://svip.iocoder.cn/Linux/tutorials/)|[how to install all softwear on centos8](https://linuxize.com/tags/centos/page/7/)|[从零搭建后台技术栈，让你提升一个层次](https://www.jianshu.com/p/41ebad81b5eb)|
 ---|---|---|
 
