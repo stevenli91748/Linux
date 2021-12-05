@@ -8,6 +8,9 @@
 * [程序是怎样跑起来的](https://weread.qq.com/web/reader/99b32fe05dd9f199b1014ef)
 * [计算机是怎样跑起来的](https://weread.qq.com/web/reader/b9b324005dd9f0b9b9e6f17)
 * [Linux内核API完全参考手册](https://weread.qq.com/web/reader/71d329705cd6d571d176fea)
+* [运维前线： 一线运维专家的运维方法，技巧与实践](https://weread.qq.com/web/reader/e99329005d0098e99533907)
+
+---
 
 [精尽 Linux 学习指南](http://svip.iocoder.cn/Linux/tutorials/)|[how to install all softwear on centos8](https://linuxize.com/tags/centos/page/7/)|[从零搭建后台技术栈，让你提升一个层次](https://www.jianshu.com/p/41ebad81b5eb)|
 ---|---|---|
