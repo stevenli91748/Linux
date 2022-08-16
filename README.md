@@ -94,7 +94,7 @@ Impala集群和Flume集群|Kafka集群与 HBase集群|Sqoop集群和Azkaban集�
 ### 集群视频
 
 * [打开百万并发大门Linux集群](https://www.bilibili.com/video/av50397542/?spm_id_from=333.788.videocard.6)
-
+* [Shell 高阶开发实战，轻松应对集群化，分布式环境](https://www.youtube.com/playlist?list=PL-fouz1yopdq-bNH7-6G1IwNgNKiCO-El)
 
 
 # 7. [MySQL数据库管理](https://github.com/stevenli91748/Database/blob/master/MySQL/README.md)
