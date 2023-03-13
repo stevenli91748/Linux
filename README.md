@@ -12,11 +12,14 @@
 
 ---
 
+[LINUX命令快速查找](https://wangchujiang.com/linux-command/c/netstat.html)|
+---|
+
 [精尽 Linux 学习指南](http://svip.iocoder.cn/Linux/tutorials/)|[how to install all softwear on centos8](https://linuxize.com/tags/centos/page/7/)|[从零搭建后台技术栈，让你提升一个层次](https://www.jianshu.com/p/41ebad81b5eb)|
 ---|---|---|
 
-[非常详细的 Linux C/C++ 学习路线总结](https://mp.weixin.qq.com/s/LYfsChbmFRH1B3s_j0vIAQ)|[just4coding---good](http://just4coding.com/archives/)|
----|---|
+[非常详细的 Linux C/C++ 学习路线总结](https://mp.weixin.qq.com/s/LYfsChbmFRH1B3s_j0vIAQ)|[just4coding---good](http://just4coding.com/archives/)|[LINUX 命]()|
+---|---|---|
 
 [2021 运维工作笔记](https://www.kancloud.cn/devops-centos/centos-linux-devops/361133)|[爱运维](https://www.iyunw.cn/)|[高效运维实战那点儿事](https://www.kancloud.cn/mr_zihan/deploy)|
 ---|---|---|
